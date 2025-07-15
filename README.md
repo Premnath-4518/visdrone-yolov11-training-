@@ -100,5 +100,5 @@ This project was completed under the guidance of **Dr. Vinodh Edwards**, at **Ka
 
 ## 📚 References
 
-- [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com)
+- [Ultralytics YOLOv11 Docs](https://docs.ultralytics.com)
 - [VisDrone Dataset](https://github.com/VisDrone/VisDrone-Dataset)
